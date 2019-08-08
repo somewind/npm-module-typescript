@@ -92,6 +92,6 @@ typings/
 *.hot-update.json
 
 # build out
-esm
-lib
-dist
+# esm
+# lib
+# dist
