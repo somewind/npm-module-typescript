@@ -1,0 +1,10 @@
+.vscode
+node_modules
+
+# build out
+esm
+lib
+dist
+
+# docs
+docs

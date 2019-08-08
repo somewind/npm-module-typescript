@@ -1,0 +1,3 @@
+# NPM Module TypeScript
+
+还没有写，如果有需要，请帮我翻译吧...

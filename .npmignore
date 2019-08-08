@@ -1,0 +1,5 @@
+.gitignore
+.eslintignore
+.eslintrc
+yarn-error.log
+__test__
